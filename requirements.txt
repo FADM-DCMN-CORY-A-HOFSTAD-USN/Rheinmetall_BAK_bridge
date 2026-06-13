@@ -1,0 +1,9 @@
+# Physical Architecture Link Interfaces
+pyserial==3.5
+
+# High-Performance Data Processing Utilities
+numpy==2.2.0
+
+# Quality Assurance and System Verification Testing Frameworks
+pytest==8.3.4
+
